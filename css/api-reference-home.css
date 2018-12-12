@@ -154,11 +154,10 @@ min-height: inherit!important;
 min-height: inherit!important;
 }
 	
-.white-bg .big-box {
-display: flex;
-flex-flow: row;
-align-items: center;
-justify-content: space-around;
+        .big-box {
+	display: flex;
+	flex-flow: row;
+	justify-content: space-around;
 }
 				
 .mhide {
