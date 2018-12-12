@@ -557,6 +557,9 @@ ul.update-groupings li.grouping:hover {
 .white-bg{
 	background:#fff;
 	padding:30px 0;
+		display: flex;
+	flex-flow: row;
+	justify-content: space-around;
 }
 .gray-bg .api-box:hover{
     background: #fff;
